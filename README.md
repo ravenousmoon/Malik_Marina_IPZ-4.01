@@ -5,4 +5,6 @@
 Лабораторна робота №3. Реалізація перетворень між системами координат - [посилання на репозиторій](https://github.com/ravenousmoon/TransformationsBetweenCoordinateSystems) <br></br>
 Лабораторна робота №4. Розробка додатку для візуалізації вимірювань радару - [посилання на репозиторій](https://github.com/ravenousmoon/VisualizationofRadarMeasurements) <br></br>
 Лабораторна робота №5. Розробка додатку для візуалізації вимірювань GPS - [посилання на репозиторій](https://github.com/ravenousmoon/VisualizationofGPSMeasurements) <br></br>
+Лабораторна робота №6. Розробка додатку для візуалізації вимірювань LORAN - [посилання на репозиторій](https://github.com/ravenousmoon/VisualizationofLORANMeasurements) <br></br>
 Лабораторна робота №7. Дослідження фільтра Калмана - [посилання на репозиторій](https://github.com/ravenousmoon/StudyoftheKalmanFilter)
+
